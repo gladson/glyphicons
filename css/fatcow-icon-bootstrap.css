@@ -1,0 +1,286 @@
+[class^="fatcow-"],
+[class*=" fatcow-"] {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  margin-top: 1px;
+  *margin-right: .3em;
+  line-height: 14px;
+  vertical-align: text-top;
+  background-image: url("../img/fatcow-icons.png");
+  background-position: 14px 14px;
+  background-repeat: no-repeat;
+}
+
+.fatcow-white,
+.nav-pills > .active > a > [class^="fatcow-"],
+.nav-pills > .active > a > [class*=" fatcow-"],
+.nav-list > .active > a > [class^="fatcow-"],
+.nav-list > .active > a > [class*=" fatcow-"],
+.navbar-inverse .nav > .active > a > [class^="fatcow-"],
+.navbar-inverse .nav > .active > a > [class*=" fatcow-"],
+.dropdown-menu > li > a:hover > [class^="fatcow-"],
+.dropdown-menu > li > a:focus > [class^="fatcow-"],
+.dropdown-menu > li > a:hover > [class*=" fatcow-"],
+.dropdown-menu > li > a:focus > [class*=" fatcow-"],
+.dropdown-menu > .active > a > [class^="fatcow-"],
+.dropdown-menu > .active > a > [class*=" fatcow-"],
+.dropdown-submenu:hover > a > [class^="fatcow-"],
+.dropdown-submenu:focus > a > [class^="fatcow-"],
+.dropdown-submenu:hover > a > [class*=" fatcow-"],
+.dropdown-submenu:focus > a > [class*=" fatcow-"] {
+  background-image: url("../img/fatcow-icons.png");
+}
+
+.btn-large [class^="fatcow-"],
+.btn-large [class*=" fatcow-"] {
+  margin-top: 4px;
+}
+
+.btn-small [class^="fatcow-"],
+.btn-small [class*=" fatcow-"] {
+  margin-top: 0;
+}
+
+.btn-mini [class^="fatcow-"],
+.btn-mini [class*=" fatcow-"] {
+  margin-top: -1px;
+}
+
+.nav-list [class^="fatcow-"],
+.nav-list [class*=" fatcow-"] {
+  margin-right: 2px;
+}
+
+.navbar .btn-navbar .fatcow-bar {
+  display: block;
+  width: 18px;
+  height: 2px;
+  background-color: #f5f5f5;
+  -webkit-border-radius: 1px;
+     -moz-border-radius: 1px;
+          border-radius: 1px;
+  -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+     -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+          box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+}
+
+.btn-navbar .fatcow-bar + .fatcow-bar {
+  margin-top: 3px;
+}
+
+.fatcow-accessories-calculator{ background-position: 0 0; width: 16px; height: 16px; } 
+.fatcow-accessories-character-map{ background-position: -21px 0; width: 16px; height: 16px; } 
+.fatcow-accessories-text-editor{ background-position: -42px 0; width: 16px; height: 16px; } 
+.fatcow-address-book-new{ background-position: -63px 0; width: 16px; height: 16px; } 
+.fatcow-application-certificate{ background-position: -84px 0; width: 16px; height: 16px; } 
+.fatcow-application-x-executable{ background-position: -105px 0; width: 16px; height: 16px; } 
+.fatcow-applications-accessories{ background-position: -126px 0; width: 16px; height: 16px; } 
+.fatcow-applications-development{ background-position: -147px 0; width: 16px; height: 16px; } 
+.fatcow-applications-games{ background-position: -168px 0; width: 16px; height: 16px; } 
+.fatcow-applications-graphics{ background-position: -189px 0; width: 16px; height: 16px; } 
+.fatcow-applications-internet{ background-position: -210px 0; width: 16px; height: 16px; } 
+.fatcow-applications-multimedia{ background-position: -231px 0; width: 16px; height: 16px; } 
+.fatcow-applications-office{ background-position: -252px 0; width: 16px; height: 16px; } 
+.fatcow-applications-other{ background-position: -273px 0; width: 16px; height: 16px; } 
+.fatcow-applications-system{ background-position: -294px 0; width: 16px; height: 16px; } 
+.fatcow-appointment-new{ background-position: -315px 0; width: 16px; height: 16px; } 
+.fatcow-audio-card{ background-position: -336px 0; width: 16px; height: 16px; } 
+.fatcow-audio-input-microphone{ background-position: -357px 0; width: 16px; height: 16px; } 
+.fatcow-audio-volume-high{ background-position: -378px 0; width: 16px; height: 16px; } 
+.fatcow-audio-volume-low{ background-position: -399px 0; width: 16px; height: 16px; } 
+.fatcow-audio-volume-medium{ background-position: -420px 0; width: 16px; height: 16px; } 
+.fatcow-audio-volume-muted{ background-position: -441px 0; width: 16px; height: 16px; } 
+.fatcow-audio-x-generic{ background-position: -462px 0; width: 16px; height: 16px; } 
+.fatcow-battery-caution{ background-position: -483px 0; width: 16px; height: 16px; } 
+.fatcow-battery{ background-position: -504px 0; width: 16px; height: 16px; } 
+.fatcow-bookmark-new{ background-position: -525px 0; width: 16px; height: 16px; } 
+.fatcow-camera-photo{ background-position: -546px 0; width: 16px; height: 16px; } 
+.fatcow-camera-video{ background-position: -567px 0; width: 16px; height: 16px; } 
+.fatcow-computer{ background-position: -588px 0; width: 16px; height: 16px; } 
+.fatcow-contact-new{ background-position: -609px 0; width: 16px; height: 16px; } 
+.fatcow-dialog-error{ background-position: -630px 0; width: 16px; height: 16px; } 
+.fatcow-dialog-information{ background-position: -651px 0; width: 16px; height: 16px; } 
+.fatcow-dialog-warning{ background-position: -672px 0; width: 16px; height: 16px; } 
+.fatcow-document-new{ background-position: -693px 0; width: 16px; height: 16px; } 
+.fatcow-document-open{ background-position: -714px 0; width: 16px; height: 16px; } 
+.fatcow-document-print-preview{ background-position: -735px 0; width: 16px; height: 16px; } 
+.fatcow-document-print{ background-position: -756px 0; width: 16px; height: 16px; } 
+.fatcow-document-properties{ background-position: -777px 0; width: 16px; height: 16px; } 
+.fatcow-document-save-as{ background-position: -798px 0; width: 16px; height: 16px; } 
+.fatcow-document-save{ background-position: -819px 0; width: 16px; height: 16px; } 
+.fatcow-drive-harddisk{ background-position: -840px 0; width: 16px; height: 16px; } 
+.fatcow-drive-optical{ background-position: -861px 0; width: 16px; height: 16px; } 
+.fatcow-drive-removable-media{ background-position: -882px 0; width: 16px; height: 16px; } 
+.fatcow-edit-clear{ background-position: -903px 0; width: 16px; height: 16px; } 
+.fatcow-edit-copy{ background-position: -924px 0; width: 16px; height: 16px; } 
+.fatcow-edit-cut{ background-position: -945px 0; width: 16px; height: 16px; } 
+.fatcow-edit-delete{ background-position: -966px 0; width: 16px; height: 16px; } 
+.fatcow-edit-find-replace{ background-position: -987px 0; width: 16px; height: 16px; } 
+.fatcow-edit-find{ background-position: -1008px 0; width: 16px; height: 16px; } 
+.fatcow-edit-paste{ background-position: -1029px 0; width: 16px; height: 16px; } 
+.fatcow-edit-redo{ background-position: -1050px 0; width: 16px; height: 16px; } 
+.fatcow-edit-select-all{ background-position: -1071px 0; width: 16px; height: 16px; } 
+.fatcow-edit-undo{ background-position: -1092px 0; width: 16px; height: 16px; } 
+.fatcow-emblem-favorite{ background-position: -1113px 0; width: 16px; height: 16px; } 
+.fatcow-emblem-important{ background-position: -1134px 0; width: 16px; height: 16px; } 
+.fatcow-emblem-photos{ background-position: -1155px 0; width: 16px; height: 16px; } 
+.fatcow-emblem-readonly{ background-position: -1176px 0; width: 16px; height: 16px; } 
+.fatcow-emblem-symbolic-link{ background-position: -1197px 0; width: 16px; height: 16px; } 
+.fatcow-emblem-system{ background-position: -1218px 0; width: 16px; height: 16px; } 
+.fatcow-emblem-unreadable{ background-position: -1239px 0; width: 16px; height: 16px; } 
+.fatcow-face-angel{ background-position: -1260px 0; width: 16px; height: 16px; } 
+.fatcow-face-crying{ background-position: -1281px 0; width: 16px; height: 16px; } 
+.fatcow-face-devilish{ background-position: -1302px 0; width: 16px; height: 16px; } 
+.fatcow-face-glasses{ background-position: -1323px 0; width: 16px; height: 16px; } 
+.fatcow-face-grin{ background-position: -1344px 0; width: 16px; height: 16px; } 
+.fatcow-face-kiss{ background-position: -1365px 0; width: 16px; height: 16px; } 
+.fatcow-face-monkey{ background-position: -1386px 0; width: 16px; height: 16px; } 
+.fatcow-face-plain{ background-position: -1407px 0; width: 16px; height: 16px; } 
+.fatcow-face-sad{ background-position: -1428px 0; width: 16px; height: 16px; } 
+.fatcow-face-smile-big{ background-position: -1449px 0; width: 16px; height: 16px; } 
+.fatcow-face-smile{ background-position: -1470px 0; width: 16px; height: 16px; } 
+.fatcow-face-surprise{ background-position: -1491px 0; width: 16px; height: 16px; } 
+.fatcow-face-wink{ background-position: -1512px 0; width: 16px; height: 16px; } 
+.fatcow-folder-drag-accept{ background-position: -1533px 0; width: 16px; height: 16px; } 
+.fatcow-folder-new{ background-position: -1554px 0; width: 16px; height: 16px; } 
+.fatcow-folder-open{ background-position: -1575px 0; width: 16px; height: 16px; } 
+.fatcow-folder-remote{ background-position: -1596px 0; width: 16px; height: 16px; } 
+.fatcow-folder-saved-search{ background-position: -1617px 0; width: 16px; height: 16px; } 
+.fatcow-folder-visiting{ background-position: -1638px 0; width: 16px; height: 16px; } 
+.fatcow-folder{ background-position: -1659px 0; width: 16px; height: 16px; } 
+.fatcow-font-x-generic{ background-position: -1680px 0; width: 16px; height: 16px; } 
+.fatcow-format-indent-less{ background-position: -1701px 0; width: 16px; height: 16px; } 
+.fatcow-format-indent-more{ background-position: -1722px 0; width: 16px; height: 16px; } 
+.fatcow-format-justify-center{ background-position: -1743px 0; width: 16px; height: 16px; } 
+.fatcow-format-justify-fill{ background-position: -1764px 0; width: 16px; height: 16px; } 
+.fatcow-format-justify-left{ background-position: -1785px 0; width: 16px; height: 16px; } 
+.fatcow-format-justify-right{ background-position: -1806px 0; width: 16px; height: 16px; } 
+.fatcow-format-text-bold{ background-position: -1827px 0; width: 16px; height: 16px; } 
+.fatcow-format-text-italic{ background-position: -1848px 0; width: 16px; height: 16px; } 
+.fatcow-format-text-strikethrough{ background-position: -1869px 0; width: 16px; height: 16px; } 
+.fatcow-format-text-underline{ background-position: -1890px 0; width: 16px; height: 16px; } 
+.fatcow-go-bottom{ background-position: -1911px 0; width: 16px; height: 16px; } 
+.fatcow-go-down{ background-position: -1932px 0; width: 16px; height: 16px; } 
+.fatcow-go-first{ background-position: -1953px 0; width: 16px; height: 16px; } 
+.fatcow-go-home{ background-position: -1974px 0; width: 16px; height: 16px; } 
+.fatcow-go-jump{ background-position: 0 -21px; width: 16px; height: 16px; } 
+.fatcow-go-last{ background-position: -21px -21px; width: 16px; height: 16px; } 
+.fatcow-go-next{ background-position: -42px -21px; width: 16px; height: 16px; } 
+.fatcow-go-previous{ background-position: -63px -21px; width: 16px; height: 16px; } 
+.fatcow-go-top{ background-position: -84px -21px; width: 16px; height: 16px; } 
+.fatcow-go-up{ background-position: -105px -21px; width: 16px; height: 16px; } 
+.fatcow-help-browser{ background-position: -126px -21px; width: 16px; height: 16px; } 
+.fatcow-image-loading{ background-position: -147px -21px; width: 16px; height: 16px; } 
+.fatcow-image-missing{ background-position: -168px -21px; width: 16px; height: 16px; } 
+.fatcow-image-x-generic{ background-position: -189px -21px; width: 16px; height: 16px; } 
+.fatcow-input-gaming{ background-position: -210px -21px; width: 16px; height: 16px; } 
+.fatcow-input-keyboard{ background-position: -231px -21px; width: 16px; height: 16px; } 
+.fatcow-input-mouse{ background-position: -252px -21px; width: 16px; height: 16px; } 
+.fatcow-internet-group-chat{ background-position: -273px -21px; width: 16px; height: 16px; } 
+.fatcow-internet-mail{ background-position: -294px -21px; width: 16px; height: 16px; } 
+.fatcow-internet-news-reader{ background-position: -315px -21px; width: 16px; height: 16px; } 
+.fatcow-internet-web-browser{ background-position: -336px -21px; width: 16px; height: 16px; } 
+.fatcow-list-add{ background-position: -357px -21px; width: 16px; height: 16px; } 
+.fatcow-list-remove{ background-position: -378px -21px; width: 16px; height: 16px; } 
+.fatcow-mail-attachment{ background-position: -399px -21px; width: 16px; height: 16px; } 
+.fatcow-mail-forward{ background-position: -420px -21px; width: 16px; height: 16px; } 
+.fatcow-mail-mark-junk{ background-position: -441px -21px; width: 16px; height: 16px; } 
+.fatcow-mail-mark-not-junk{ background-position: -462px -21px; width: 16px; height: 16px; } 
+.fatcow-mail-message-new{ background-position: -483px -21px; width: 16px; height: 16px; } 
+.fatcow-mail-reply-all{ background-position: -504px -21px; width: 16px; height: 16px; } 
+.fatcow-mail-reply-sender{ background-position: -525px -21px; width: 16px; height: 16px; } 
+.fatcow-mail-send-receive{ background-position: -546px -21px; width: 16px; height: 16px; } 
+.fatcow-media-eject{ background-position: -567px -21px; width: 16px; height: 16px; } 
+.fatcow-media-flash{ background-position: -588px -21px; width: 16px; height: 16px; } 
+.fatcow-media-floppy{ background-position: -609px -21px; width: 16px; height: 16px; } 
+.fatcow-media-optical{ background-position: -630px -21px; width: 16px; height: 16px; } 
+.fatcow-media-playback-pause{ background-position: -651px -21px; width: 16px; height: 16px; } 
+.fatcow-media-playback-start{ background-position: -672px -21px; width: 16px; height: 16px; } 
+.fatcow-media-playback-stop{ background-position: -693px -21px; width: 16px; height: 16px; } 
+.fatcow-media-record{ background-position: -714px -21px; width: 16px; height: 16px; } 
+.fatcow-media-seek-backward{ background-position: -735px -21px; width: 16px; height: 16px; } 
+.fatcow-media-seek-forward{ background-position: -756px -21px; width: 16px; height: 16px; } 
+.fatcow-media-skip-backward{ background-position: -777px -21px; width: 16px; height: 16px; } 
+.fatcow-media-skip-forward{ background-position: -798px -21px; width: 16px; height: 16px; } 
+.fatcow-multimedia-player{ background-position: -819px -21px; width: 16px; height: 16px; } 
+.fatcow-network-error{ background-position: -840px -21px; width: 16px; height: 16px; } 
+.fatcow-network-idle{ background-position: -861px -21px; width: 16px; height: 16px; } 
+.fatcow-network-offline{ background-position: -882px -21px; width: 16px; height: 16px; } 
+.fatcow-network-receive{ background-position: -903px -21px; width: 16px; height: 16px; } 
+.fatcow-network-server{ background-position: -924px -21px; width: 16px; height: 16px; } 
+.fatcow-network-transmit-receive{ background-position: -945px -21px; width: 16px; height: 16px; } 
+.fatcow-network-transmit{ background-position: -966px -21px; width: 16px; height: 16px; } 
+.fatcow-network-wired{ background-position: -987px -21px; width: 16px; height: 16px; } 
+.fatcow-network-wireless-encrypted{ background-position: -1008px -21px; width: 16px; height: 16px; } 
+.fatcow-network-wireless{ background-position: -1029px -21px; width: 16px; height: 16px; } 
+.fatcow-network-workgroup{ background-position: -1050px -21px; width: 16px; height: 16px; } 
+.fatcow-office-calendar{ background-position: -1071px -21px; width: 16px; height: 16px; } 
+.fatcow-package-x-generic{ background-position: -1092px -21px; width: 16px; height: 16px; } 
+.fatcow-preferences-desktop-accessibility{ background-position: -1113px -21px; width: 16px; height: 16px; } 
+.fatcow-preferences-desktop-assistive-technology{ background-position: -1134px -21px; width: 16px; height: 16px; } 
+.fatcow-preferences-desktop-font{ background-position: -1155px -21px; width: 16px; height: 16px; } 
+.fatcow-preferences-desktop-keyboard-shortcuts{ background-position: -1176px -21px; width: 16px; height: 16px; } 
+.fatcow-preferences-desktop-locale{ background-position: -1197px -21px; width: 16px; height: 16px; } 
+.fatcow-preferences-desktop-multimedia{ background-position: -1218px -21px; width: 16px; height: 16px; } 
+.fatcow-preferences-desktop-peripherals{ background-position: -1239px -21px; width: 16px; height: 16px; } 
+.fatcow-preferences-desktop-remote-desktop{ background-position: -1260px -21px; width: 16px; height: 16px; } 
+.fatcow-preferences-desktop-screensaver{ background-position: -1281px -21px; width: 16px; height: 16px; } 
+.fatcow-preferences-desktop-theme{ background-position: -1302px -21px; width: 16px; height: 16px; } 
+.fatcow-preferences-desktop-wallpaper{ background-position: -1323px -21px; width: 16px; height: 16px; } 
+.fatcow-preferences-desktop{ background-position: -1344px -21px; width: 16px; height: 16px; } 
+.fatcow-preferences-system-network-proxy{ background-position: -1365px -21px; width: 16px; height: 16px; } 
+.fatcow-preferences-system-session{ background-position: -1386px -21px; width: 16px; height: 16px; } 
+.fatcow-preferences-system-windows{ background-position: -1407px -21px; width: 16px; height: 16px; } 
+.fatcow-preferences-system{ background-position: -1428px -21px; width: 16px; height: 16px; } 
+.fatcow-printer-error{ background-position: -1449px -21px; width: 16px; height: 16px; } 
+.fatcow-printer{ background-position: -1470px -21px; width: 16px; height: 16px; } 
+.fatcow-process-stop{ background-position: -1491px -21px; width: 16px; height: 16px; } 
+.fatcow-process-working{ background-position: -1512px -21px; width: 128px; height: 64px; } 
+.fatcow-software-update-available{ background-position: -1645px -21px; width: 16px; height: 16px; } 
+.fatcow-software-update-urgent{ background-position: -1666px -21px; width: 16px; height: 16px; } 
+.fatcow-start-here{ background-position: -1687px -21px; width: 16px; height: 16px; } 
+.fatcow-system-file-manager{ background-position: -1708px -21px; width: 16px; height: 16px; } 
+.fatcow-system-installer{ background-position: -1729px -21px; width: 16px; height: 16px; } 
+.fatcow-system-lock-screen{ background-position: -1750px -21px; width: 16px; height: 16px; } 
+.fatcow-system-log-out{ background-position: -1771px -21px; width: 16px; height: 16px; } 
+.fatcow-system-search{ background-position: -1792px -21px; width: 16px; height: 16px; } 
+.fatcow-system-shutdown{ background-position: -1813px -21px; width: 16px; height: 16px; } 
+.fatcow-system-software-update{ background-position: -1834px -21px; width: 16px; height: 16px; } 
+.fatcow-system-users{ background-position: -1855px -21px; width: 16px; height: 16px; } 
+.fatcow-tab-new{ background-position: -1876px -21px; width: 16px; height: 16px; } 
+.fatcow-text-html{ background-position: -1897px -21px; width: 16px; height: 16px; } 
+.fatcow-text-x-generic-template{ background-position: -1918px -21px; width: 16px; height: 16px; } 
+.fatcow-text-x-generic{ background-position: -1939px -21px; width: 16px; height: 16px; } 
+.fatcow-text-x-script{ background-position: -1960px -21px; width: 16px; height: 16px; } 
+.fatcow-user-desktop{ background-position: -1981px -21px; width: 16px; height: 16px; } 
+.fatcow-user-home{ background-position: 0 -90px; width: 16px; height: 16px; } 
+.fatcow-user-trash-full{ background-position: -21px -90px; width: 16px; height: 16px; } 
+.fatcow-user-trash{ background-position: -42px -90px; width: 16px; height: 16px; } 
+.fatcow-utilities-system-monitor{ background-position: -63px -90px; width: 16px; height: 16px; } 
+.fatcow-utilities-terminal{ background-position: -84px -90px; width: 16px; height: 16px; } 
+.fatcow-video-display{ background-position: -105px -90px; width: 16px; height: 16px; } 
+.fatcow-video-x-generic{ background-position: -126px -90px; width: 16px; height: 16px; } 
+.fatcow-view-fullscreen{ background-position: -147px -90px; width: 16px; height: 16px; } 
+.fatcow-view-refresh{ background-position: -168px -90px; width: 16px; height: 16px; } 
+.fatcow-weather-clear-night{ background-position: -189px -90px; width: 16px; height: 16px; } 
+.fatcow-weather-clear{ background-position: -210px -90px; width: 16px; height: 16px; } 
+.fatcow-weather-few-clouds-night{ background-position: -231px -90px; width: 16px; height: 16px; } 
+.fatcow-weather-few-clouds{ background-position: -252px -90px; width: 16px; height: 16px; } 
+.fatcow-weather-overcast{ background-position: -273px -90px; width: 16px; height: 16px; } 
+.fatcow-weather-severe-alert{ background-position: -294px -90px; width: 16px; height: 16px; } 
+.fatcow-weather-showers-scattered{ background-position: -315px -90px; width: 16px; height: 16px; } 
+.fatcow-weather-showers{ background-position: -336px -90px; width: 16px; height: 16px; } 
+.fatcow-weather-snow{ background-position: -357px -90px; width: 16px; height: 16px; } 
+.fatcow-weather-storm{ background-position: -378px -90px; width: 16px; height: 16px; } 
+.fatcow-window-new{ background-position: -399px -90px; width: 16px; height: 16px; } 
+.fatcow-x-office-address-book{ background-position: -420px -90px; width: 16px; height: 16px; } 
+.fatcow-x-office-calendar{ background-position: -441px -90px; width: 16px; height: 16px; } 
+.fatcow-x-office-document-template{ background-position: -462px -90px; width: 16px; height: 16px; } 
+.fatcow-x-office-document{ background-position: -483px -90px; width: 16px; height: 16px; } 
+.fatcow-x-office-drawing-template{ background-position: -504px -90px; width: 16px; height: 16px; } 
+.fatcow-x-office-drawing{ background-position: -525px -90px; width: 16px; height: 16px; } 
+.fatcow-x-office-presentation-template{ background-position: -546px -90px; width: 16px; height: 16px; } 
+.fatcow-x-office-presentation{ background-position: -567px -90px; width: 16px; height: 16px; } 
+.fatcow-x-office-spreadsheet-template{ background-position: -588px -90px; width: 16px; height: 16px; } 
+.fatcow-x-office-spreadsheet{ background-position: -609px -90px; width: 16px; height: 16px; } 

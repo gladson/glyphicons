@@ -1,0 +1,286 @@
+[class^="tango-"],
+[class*=" tango-"] {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  margin-top: 1px;
+  *margin-right: .3em;
+  line-height: 14px;
+  vertical-align: text-top;
+  background-image: url("../img/tango-icons.png");
+  background-position: 14px 14px;
+  background-repeat: no-repeat;
+}
+
+.tango-white,
+.nav-pills > .active > a > [class^="tango-"],
+.nav-pills > .active > a > [class*=" tango-"],
+.nav-list > .active > a > [class^="tango-"],
+.nav-list > .active > a > [class*=" tango-"],
+.navbar-inverse .nav > .active > a > [class^="tango-"],
+.navbar-inverse .nav > .active > a > [class*=" tango-"],
+.dropdown-menu > li > a:hover > [class^="tango-"],
+.dropdown-menu > li > a:focus > [class^="tango-"],
+.dropdown-menu > li > a:hover > [class*=" tango-"],
+.dropdown-menu > li > a:focus > [class*=" tango-"],
+.dropdown-menu > .active > a > [class^="tango-"],
+.dropdown-menu > .active > a > [class*=" tango-"],
+.dropdown-submenu:hover > a > [class^="tango-"],
+.dropdown-submenu:focus > a > [class^="tango-"],
+.dropdown-submenu:hover > a > [class*=" tango-"],
+.dropdown-submenu:focus > a > [class*=" tango-"] {
+  background-image: url("../img/tango-icons.png");
+}
+
+.btn-large [class^="tango-"],
+.btn-large [class*=" tango-"] {
+  margin-top: 4px;
+}
+
+.btn-small [class^="tango-"],
+.btn-small [class*=" tango-"] {
+  margin-top: 0;
+}
+
+.btn-mini [class^="tango-"],
+.btn-mini [class*=" tango-"] {
+  margin-top: -1px;
+}
+
+.nav-list [class^="tango-"],
+.nav-list [class*=" tango-"] {
+  margin-right: 2px;
+}
+
+.navbar .btn-navbar .tango-bar {
+  display: block;
+  width: 18px;
+  height: 2px;
+  background-color: #f5f5f5;
+  -webkit-border-radius: 1px;
+     -moz-border-radius: 1px;
+          border-radius: 1px;
+  -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+     -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+          box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+}
+
+.btn-navbar .tango-bar + .tango-bar {
+  margin-top: 3px;
+}
+
+.tango-accessories-calculator{ background-position: 0 0; width: 16px; height: 16px; } 
+.tango-accessories-character-map{ background-position: -21px 0; width: 16px; height: 16px; } 
+.tango-accessories-text-editor{ background-position: -42px 0; width: 16px; height: 16px; } 
+.tango-address-book-new{ background-position: -63px 0; width: 16px; height: 16px; } 
+.tango-application-certificate{ background-position: -84px 0; width: 16px; height: 16px; } 
+.tango-application-x-executable{ background-position: -105px 0; width: 16px; height: 16px; } 
+.tango-applications-accessories{ background-position: -126px 0; width: 16px; height: 16px; } 
+.tango-applications-development{ background-position: -147px 0; width: 16px; height: 16px; } 
+.tango-applications-games{ background-position: -168px 0; width: 16px; height: 16px; } 
+.tango-applications-graphics{ background-position: -189px 0; width: 16px; height: 16px; } 
+.tango-applications-internet{ background-position: -210px 0; width: 16px; height: 16px; } 
+.tango-applications-multimedia{ background-position: -231px 0; width: 16px; height: 16px; } 
+.tango-applications-office{ background-position: -252px 0; width: 16px; height: 16px; } 
+.tango-applications-other{ background-position: -273px 0; width: 16px; height: 16px; } 
+.tango-applications-system{ background-position: -294px 0; width: 16px; height: 16px; } 
+.tango-appointment-new{ background-position: -315px 0; width: 16px; height: 16px; } 
+.tango-audio-card{ background-position: -336px 0; width: 16px; height: 16px; } 
+.tango-audio-input-microphone{ background-position: -357px 0; width: 16px; height: 16px; } 
+.tango-audio-volume-high{ background-position: -378px 0; width: 16px; height: 16px; } 
+.tango-audio-volume-low{ background-position: -399px 0; width: 16px; height: 16px; } 
+.tango-audio-volume-medium{ background-position: -420px 0; width: 16px; height: 16px; } 
+.tango-audio-volume-muted{ background-position: -441px 0; width: 16px; height: 16px; } 
+.tango-audio-x-generic{ background-position: -462px 0; width: 16px; height: 16px; } 
+.tango-battery-caution{ background-position: -483px 0; width: 16px; height: 16px; } 
+.tango-battery{ background-position: -504px 0; width: 16px; height: 16px; } 
+.tango-bookmark-new{ background-position: -525px 0; width: 16px; height: 16px; } 
+.tango-camera-photo{ background-position: -546px 0; width: 16px; height: 16px; } 
+.tango-camera-video{ background-position: -567px 0; width: 16px; height: 16px; } 
+.tango-computer{ background-position: -588px 0; width: 16px; height: 16px; } 
+.tango-contact-new{ background-position: -609px 0; width: 16px; height: 16px; } 
+.tango-dialog-error{ background-position: -630px 0; width: 16px; height: 16px; } 
+.tango-dialog-information{ background-position: -651px 0; width: 16px; height: 16px; } 
+.tango-dialog-warning{ background-position: -672px 0; width: 16px; height: 16px; } 
+.tango-document-new{ background-position: -693px 0; width: 16px; height: 16px; } 
+.tango-document-open{ background-position: -714px 0; width: 16px; height: 16px; } 
+.tango-document-print-preview{ background-position: -735px 0; width: 16px; height: 16px; } 
+.tango-document-print{ background-position: -756px 0; width: 16px; height: 16px; } 
+.tango-document-properties{ background-position: -777px 0; width: 16px; height: 16px; } 
+.tango-document-save-as{ background-position: -798px 0; width: 16px; height: 16px; } 
+.tango-document-save{ background-position: -819px 0; width: 16px; height: 16px; } 
+.tango-drive-harddisk{ background-position: -840px 0; width: 16px; height: 16px; } 
+.tango-drive-optical{ background-position: -861px 0; width: 16px; height: 16px; } 
+.tango-drive-removable-media{ background-position: -882px 0; width: 16px; height: 16px; } 
+.tango-edit-clear{ background-position: -903px 0; width: 16px; height: 16px; } 
+.tango-edit-copy{ background-position: -924px 0; width: 16px; height: 16px; } 
+.tango-edit-cut{ background-position: -945px 0; width: 16px; height: 16px; } 
+.tango-edit-delete{ background-position: -966px 0; width: 16px; height: 16px; } 
+.tango-edit-find-replace{ background-position: -987px 0; width: 16px; height: 16px; } 
+.tango-edit-find{ background-position: -1008px 0; width: 16px; height: 16px; } 
+.tango-edit-paste{ background-position: -1029px 0; width: 16px; height: 16px; } 
+.tango-edit-redo{ background-position: -1050px 0; width: 16px; height: 16px; } 
+.tango-edit-select-all{ background-position: -1071px 0; width: 16px; height: 16px; } 
+.tango-edit-undo{ background-position: -1092px 0; width: 16px; height: 16px; } 
+.tango-emblem-favorite{ background-position: -1113px 0; width: 16px; height: 16px; } 
+.tango-emblem-important{ background-position: -1134px 0; width: 16px; height: 16px; } 
+.tango-emblem-photos{ background-position: -1155px 0; width: 16px; height: 16px; } 
+.tango-emblem-readonly{ background-position: -1176px 0; width: 16px; height: 16px; } 
+.tango-emblem-symbolic-link{ background-position: -1197px 0; width: 16px; height: 16px; } 
+.tango-emblem-system{ background-position: -1218px 0; width: 16px; height: 16px; } 
+.tango-emblem-unreadable{ background-position: -1239px 0; width: 16px; height: 16px; } 
+.tango-face-angel{ background-position: -1260px 0; width: 16px; height: 16px; } 
+.tango-face-crying{ background-position: -1281px 0; width: 16px; height: 16px; } 
+.tango-face-devilish{ background-position: -1302px 0; width: 16px; height: 16px; } 
+.tango-face-glasses{ background-position: -1323px 0; width: 16px; height: 16px; } 
+.tango-face-grin{ background-position: -1344px 0; width: 16px; height: 16px; } 
+.tango-face-kiss{ background-position: -1365px 0; width: 16px; height: 16px; } 
+.tango-face-monkey{ background-position: -1386px 0; width: 16px; height: 16px; } 
+.tango-face-plain{ background-position: -1407px 0; width: 16px; height: 16px; } 
+.tango-face-sad{ background-position: -1428px 0; width: 16px; height: 16px; } 
+.tango-face-smile-big{ background-position: -1449px 0; width: 16px; height: 16px; } 
+.tango-face-smile{ background-position: -1470px 0; width: 16px; height: 16px; } 
+.tango-face-surprise{ background-position: -1491px 0; width: 16px; height: 16px; } 
+.tango-face-wink{ background-position: -1512px 0; width: 16px; height: 16px; } 
+.tango-folder-drag-accept{ background-position: -1533px 0; width: 16px; height: 16px; } 
+.tango-folder-new{ background-position: -1554px 0; width: 16px; height: 16px; } 
+.tango-folder-open{ background-position: -1575px 0; width: 16px; height: 16px; } 
+.tango-folder-remote{ background-position: -1596px 0; width: 16px; height: 16px; } 
+.tango-folder-saved-search{ background-position: -1617px 0; width: 16px; height: 16px; } 
+.tango-folder-visiting{ background-position: -1638px 0; width: 16px; height: 16px; } 
+.tango-folder{ background-position: -1659px 0; width: 16px; height: 16px; } 
+.tango-font-x-generic{ background-position: -1680px 0; width: 16px; height: 16px; } 
+.tango-format-indent-less{ background-position: -1701px 0; width: 16px; height: 16px; } 
+.tango-format-indent-more{ background-position: -1722px 0; width: 16px; height: 16px; } 
+.tango-format-justify-center{ background-position: -1743px 0; width: 16px; height: 16px; } 
+.tango-format-justify-fill{ background-position: -1764px 0; width: 16px; height: 16px; } 
+.tango-format-justify-left{ background-position: -1785px 0; width: 16px; height: 16px; } 
+.tango-format-justify-right{ background-position: -1806px 0; width: 16px; height: 16px; } 
+.tango-format-text-bold{ background-position: -1827px 0; width: 16px; height: 16px; } 
+.tango-format-text-italic{ background-position: -1848px 0; width: 16px; height: 16px; } 
+.tango-format-text-strikethrough{ background-position: -1869px 0; width: 16px; height: 16px; } 
+.tango-format-text-underline{ background-position: -1890px 0; width: 16px; height: 16px; } 
+.tango-go-bottom{ background-position: -1911px 0; width: 16px; height: 16px; } 
+.tango-go-down{ background-position: -1932px 0; width: 16px; height: 16px; } 
+.tango-go-first{ background-position: -1953px 0; width: 16px; height: 16px; } 
+.tango-go-home{ background-position: -1974px 0; width: 16px; height: 16px; } 
+.tango-go-jump{ background-position: 0 -21px; width: 16px; height: 16px; } 
+.tango-go-last{ background-position: -21px -21px; width: 16px; height: 16px; } 
+.tango-go-next{ background-position: -42px -21px; width: 16px; height: 16px; } 
+.tango-go-previous{ background-position: -63px -21px; width: 16px; height: 16px; } 
+.tango-go-top{ background-position: -84px -21px; width: 16px; height: 16px; } 
+.tango-go-up{ background-position: -105px -21px; width: 16px; height: 16px; } 
+.tango-help-browser{ background-position: -126px -21px; width: 16px; height: 16px; } 
+.tango-image-loading{ background-position: -147px -21px; width: 16px; height: 16px; } 
+.tango-image-missing{ background-position: -168px -21px; width: 16px; height: 16px; } 
+.tango-image-x-generic{ background-position: -189px -21px; width: 16px; height: 16px; } 
+.tango-input-gaming{ background-position: -210px -21px; width: 16px; height: 16px; } 
+.tango-input-keyboard{ background-position: -231px -21px; width: 16px; height: 16px; } 
+.tango-input-mouse{ background-position: -252px -21px; width: 16px; height: 16px; } 
+.tango-internet-group-chat{ background-position: -273px -21px; width: 16px; height: 16px; } 
+.tango-internet-mail{ background-position: -294px -21px; width: 16px; height: 16px; } 
+.tango-internet-news-reader{ background-position: -315px -21px; width: 16px; height: 16px; } 
+.tango-internet-web-browser{ background-position: -336px -21px; width: 16px; height: 16px; } 
+.tango-list-add{ background-position: -357px -21px; width: 16px; height: 16px; } 
+.tango-list-remove{ background-position: -378px -21px; width: 16px; height: 16px; } 
+.tango-mail-attachment{ background-position: -399px -21px; width: 16px; height: 16px; } 
+.tango-mail-forward{ background-position: -420px -21px; width: 16px; height: 16px; } 
+.tango-mail-mark-junk{ background-position: -441px -21px; width: 16px; height: 16px; } 
+.tango-mail-mark-not-junk{ background-position: -462px -21px; width: 16px; height: 16px; } 
+.tango-mail-message-new{ background-position: -483px -21px; width: 16px; height: 16px; } 
+.tango-mail-reply-all{ background-position: -504px -21px; width: 16px; height: 16px; } 
+.tango-mail-reply-sender{ background-position: -525px -21px; width: 16px; height: 16px; } 
+.tango-mail-send-receive{ background-position: -546px -21px; width: 16px; height: 16px; } 
+.tango-media-eject{ background-position: -567px -21px; width: 16px; height: 16px; } 
+.tango-media-flash{ background-position: -588px -21px; width: 16px; height: 16px; } 
+.tango-media-floppy{ background-position: -609px -21px; width: 16px; height: 16px; } 
+.tango-media-optical{ background-position: -630px -21px; width: 16px; height: 16px; } 
+.tango-media-playback-pause{ background-position: -651px -21px; width: 16px; height: 16px; } 
+.tango-media-playback-start{ background-position: -672px -21px; width: 16px; height: 16px; } 
+.tango-media-playback-stop{ background-position: -693px -21px; width: 16px; height: 16px; } 
+.tango-media-record{ background-position: -714px -21px; width: 16px; height: 16px; } 
+.tango-media-seek-backward{ background-position: -735px -21px; width: 16px; height: 16px; } 
+.tango-media-seek-forward{ background-position: -756px -21px; width: 16px; height: 16px; } 
+.tango-media-skip-backward{ background-position: -777px -21px; width: 16px; height: 16px; } 
+.tango-media-skip-forward{ background-position: -798px -21px; width: 16px; height: 16px; } 
+.tango-multimedia-player{ background-position: -819px -21px; width: 16px; height: 16px; } 
+.tango-network-error{ background-position: -840px -21px; width: 16px; height: 16px; } 
+.tango-network-idle{ background-position: -861px -21px; width: 16px; height: 16px; } 
+.tango-network-offline{ background-position: -882px -21px; width: 16px; height: 16px; } 
+.tango-network-receive{ background-position: -903px -21px; width: 16px; height: 16px; } 
+.tango-network-server{ background-position: -924px -21px; width: 16px; height: 16px; } 
+.tango-network-transmit-receive{ background-position: -945px -21px; width: 16px; height: 16px; } 
+.tango-network-transmit{ background-position: -966px -21px; width: 16px; height: 16px; } 
+.tango-network-wired{ background-position: -987px -21px; width: 16px; height: 16px; } 
+.tango-network-wireless-encrypted{ background-position: -1008px -21px; width: 16px; height: 16px; } 
+.tango-network-wireless{ background-position: -1029px -21px; width: 16px; height: 16px; } 
+.tango-network-workgroup{ background-position: -1050px -21px; width: 16px; height: 16px; } 
+.tango-office-calendar{ background-position: -1071px -21px; width: 16px; height: 16px; } 
+.tango-package-x-generic{ background-position: -1092px -21px; width: 16px; height: 16px; } 
+.tango-preferences-desktop-accessibility{ background-position: -1113px -21px; width: 16px; height: 16px; } 
+.tango-preferences-desktop-assistive-technology{ background-position: -1134px -21px; width: 16px; height: 16px; } 
+.tango-preferences-desktop-font{ background-position: -1155px -21px; width: 16px; height: 16px; } 
+.tango-preferences-desktop-keyboard-shortcuts{ background-position: -1176px -21px; width: 16px; height: 16px; } 
+.tango-preferences-desktop-locale{ background-position: -1197px -21px; width: 16px; height: 16px; } 
+.tango-preferences-desktop-multimedia{ background-position: -1218px -21px; width: 16px; height: 16px; } 
+.tango-preferences-desktop-peripherals{ background-position: -1239px -21px; width: 16px; height: 16px; } 
+.tango-preferences-desktop-remote-desktop{ background-position: -1260px -21px; width: 16px; height: 16px; } 
+.tango-preferences-desktop-screensaver{ background-position: -1281px -21px; width: 16px; height: 16px; } 
+.tango-preferences-desktop-theme{ background-position: -1302px -21px; width: 16px; height: 16px; } 
+.tango-preferences-desktop-wallpaper{ background-position: -1323px -21px; width: 16px; height: 16px; } 
+.tango-preferences-desktop{ background-position: -1344px -21px; width: 16px; height: 16px; } 
+.tango-preferences-system-network-proxy{ background-position: -1365px -21px; width: 16px; height: 16px; } 
+.tango-preferences-system-session{ background-position: -1386px -21px; width: 16px; height: 16px; } 
+.tango-preferences-system-windows{ background-position: -1407px -21px; width: 16px; height: 16px; } 
+.tango-preferences-system{ background-position: -1428px -21px; width: 16px; height: 16px; } 
+.tango-printer-error{ background-position: -1449px -21px; width: 16px; height: 16px; } 
+.tango-printer{ background-position: -1470px -21px; width: 16px; height: 16px; } 
+.tango-process-stop{ background-position: -1491px -21px; width: 16px; height: 16px; } 
+.tango-process-working{ background-position: -1512px -21px; width: 128px; height: 64px; } 
+.tango-software-update-available{ background-position: -1645px -21px; width: 16px; height: 16px; } 
+.tango-software-update-urgent{ background-position: -1666px -21px; width: 16px; height: 16px; } 
+.tango-start-here{ background-position: -1687px -21px; width: 16px; height: 16px; } 
+.tango-system-file-manager{ background-position: -1708px -21px; width: 16px; height: 16px; } 
+.tango-system-installer{ background-position: -1729px -21px; width: 16px; height: 16px; } 
+.tango-system-lock-screen{ background-position: -1750px -21px; width: 16px; height: 16px; } 
+.tango-system-log-out{ background-position: -1771px -21px; width: 16px; height: 16px; } 
+.tango-system-search{ background-position: -1792px -21px; width: 16px; height: 16px; } 
+.tango-system-shutdown{ background-position: -1813px -21px; width: 16px; height: 16px; } 
+.tango-system-software-update{ background-position: -1834px -21px; width: 16px; height: 16px; } 
+.tango-system-users{ background-position: -1855px -21px; width: 16px; height: 16px; } 
+.tango-tab-new{ background-position: -1876px -21px; width: 16px; height: 16px; } 
+.tango-text-html{ background-position: -1897px -21px; width: 16px; height: 16px; } 
+.tango-text-x-generic-template{ background-position: -1918px -21px; width: 16px; height: 16px; } 
+.tango-text-x-generic{ background-position: -1939px -21px; width: 16px; height: 16px; } 
+.tango-text-x-script{ background-position: -1960px -21px; width: 16px; height: 16px; } 
+.tango-user-desktop{ background-position: -1981px -21px; width: 16px; height: 16px; } 
+.tango-user-home{ background-position: 0 -90px; width: 16px; height: 16px; } 
+.tango-user-trash-full{ background-position: -21px -90px; width: 16px; height: 16px; } 
+.tango-user-trash{ background-position: -42px -90px; width: 16px; height: 16px; } 
+.tango-utilities-system-monitor{ background-position: -63px -90px; width: 16px; height: 16px; } 
+.tango-utilities-terminal{ background-position: -84px -90px; width: 16px; height: 16px; } 
+.tango-video-display{ background-position: -105px -90px; width: 16px; height: 16px; } 
+.tango-video-x-generic{ background-position: -126px -90px; width: 16px; height: 16px; } 
+.tango-view-fullscreen{ background-position: -147px -90px; width: 16px; height: 16px; } 
+.tango-view-refresh{ background-position: -168px -90px; width: 16px; height: 16px; } 
+.tango-weather-clear-night{ background-position: -189px -90px; width: 16px; height: 16px; } 
+.tango-weather-clear{ background-position: -210px -90px; width: 16px; height: 16px; } 
+.tango-weather-few-clouds-night{ background-position: -231px -90px; width: 16px; height: 16px; } 
+.tango-weather-few-clouds{ background-position: -252px -90px; width: 16px; height: 16px; } 
+.tango-weather-overcast{ background-position: -273px -90px; width: 16px; height: 16px; } 
+.tango-weather-severe-alert{ background-position: -294px -90px; width: 16px; height: 16px; } 
+.tango-weather-showers-scattered{ background-position: -315px -90px; width: 16px; height: 16px; } 
+.tango-weather-showers{ background-position: -336px -90px; width: 16px; height: 16px; } 
+.tango-weather-snow{ background-position: -357px -90px; width: 16px; height: 16px; } 
+.tango-weather-storm{ background-position: -378px -90px; width: 16px; height: 16px; } 
+.tango-window-new{ background-position: -399px -90px; width: 16px; height: 16px; } 
+.tango-x-office-address-book{ background-position: -420px -90px; width: 16px; height: 16px; } 
+.tango-x-office-calendar{ background-position: -441px -90px; width: 16px; height: 16px; } 
+.tango-x-office-document-template{ background-position: -462px -90px; width: 16px; height: 16px; } 
+.tango-x-office-document{ background-position: -483px -90px; width: 16px; height: 16px; } 
+.tango-x-office-drawing-template{ background-position: -504px -90px; width: 16px; height: 16px; } 
+.tango-x-office-drawing{ background-position: -525px -90px; width: 16px; height: 16px; } 
+.tango-x-office-presentation-template{ background-position: -546px -90px; width: 16px; height: 16px; } 
+.tango-x-office-presentation{ background-position: -567px -90px; width: 16px; height: 16px; } 
+.tango-x-office-spreadsheet-template{ background-position: -588px -90px; width: 16px; height: 16px; } 
+.tango-x-office-spreadsheet{ background-position: -609px -90px; width: 16px; height: 16px; }

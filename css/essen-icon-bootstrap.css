@@ -1,0 +1,173 @@
+[class^="essen-"],
+[class*=" essen-"] {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  margin-top: 1px;
+  *margin-right: .3em;
+  line-height: 14px;
+  vertical-align: text-top;
+  background-image: url("../img/essen-icons.png");
+  background-position: 14px 14px;
+  background-repeat: no-repeat;
+}
+
+.essen-white,
+.nav-pills > .active > a > [class^="essen-"],
+.nav-pills > .active > a > [class*=" essen-"],
+.nav-list > .active > a > [class^="essen-"],
+.nav-list > .active > a > [class*=" essen-"],
+.navbar-inverse .nav > .active > a > [class^="essen-"],
+.navbar-inverse .nav > .active > a > [class*=" essen-"],
+.dropdown-menu > li > a:hover > [class^="essen-"],
+.dropdown-menu > li > a:focus > [class^="essen-"],
+.dropdown-menu > li > a:hover > [class*=" essen-"],
+.dropdown-menu > li > a:focus > [class*=" essen-"],
+.dropdown-menu > .active > a > [class^="essen-"],
+.dropdown-menu > .active > a > [class*=" essen-"],
+.dropdown-submenu:hover > a > [class^="essen-"],
+.dropdown-submenu:focus > a > [class^="essen-"],
+.dropdown-submenu:hover > a > [class*=" essen-"],
+.dropdown-submenu:focus > a > [class*=" essen-"] {
+  background-image: url("../img/essen-icons.png");
+}
+
+.btn-large [class^="essen-"],
+.btn-large [class*=" essen-"] {
+  margin-top: 4px;
+}
+
+.btn-small [class^="essen-"],
+.btn-small [class*=" essen-"] {
+  margin-top: 0;
+}
+
+.btn-mini [class^="essen-"],
+.btn-mini [class*=" essen-"] {
+  margin-top: -1px;
+}
+
+.nav-list [class^="essen-"],
+.nav-list [class*=" essen-"] {
+  margin-right: 2px;
+}
+
+.navbar .btn-navbar .essen-bar {
+  display: block;
+  width: 18px;
+  height: 2px;
+  background-color: #f5f5f5;
+  -webkit-border-radius: 1px;
+     -moz-border-radius: 1px;
+          border-radius: 1px;
+  -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+     -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+          box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+}
+
+.btn-navbar .essen-bar + .essen-bar {
+  margin-top: 3px;
+}
+
+.essen-address{ background-position: 0 0; width: 16px; height: 16px; } 
+.essen-administrative-docs{ background-position: -66px 0; width: 16px; height: 16px; } 
+.essen-advertising{ background-position: -132px 0; width: 16px; height: 16px; } 
+.essen-archives{ background-position: -198px 0; width: 16px; height: 16px; } 
+.essen-attibutes{ background-position: -264px 0; width: 16px; height: 16px; } 
+.essen-bank{ background-position: -330px 0; width: 16px; height: 16px; } 
+.essen-basket{ background-position: -396px 0; width: 16px; height: 16px; } 
+.essen-bestseller{ background-position: -462px 0; width: 16px; height: 16px; } 
+.essen-billing{ background-position: -528px 0; width: 16px; height: 16px; } 
+.essen-bookmark{ background-position: -594px 0; width: 16px; height: 16px; } 
+.essen-brainstorming{ background-position: -660px 0; width: 16px; height: 16px; } 
+.essen-business-contact{ background-position: -726px 0; width: 16px; height: 16px; } 
+.essen-busy{ background-position: -792px 0; width: 16px; height: 16px; } 
+.essen-calendar{ background-position: -858px 0; width: 16px; height: 16px; } 
+.essen-category{ background-position: -924px 0; width: 16px; height: 16px; } 
+.essen-check{ background-position: -990px 0; width: 16px; height: 16px; } 
+.essen-collaboration{ background-position: -1056px 0; width: 16px; height: 16px; } 
+.essen-comment{ background-position: -1122px 0; width: 16px; height: 16px; } 
+.essen-communication{ background-position: -1188px 0; width: 16px; height: 16px; } 
+.essen-config{ background-position: -1254px 0; width: 16px; height: 16px; } 
+.essen-consulting{ background-position: -1320px 0; width: 16px; height: 16px; } 
+.essen-contact{ background-position: -1386px 0; width: 16px; height: 16px; } 
+.essen-cost{ background-position: -1452px 0; width: 16px; height: 16px; } 
+.essen-credit-card{ background-position: -1518px 0; width: 16px; height: 16px; } 
+.essen-credit{ background-position: -1584px 0; width: 16px; height: 16px; } 
+.essen-current-work{ background-position: -1650px 0; width: 16px; height: 16px; } 
+.essen-customers{ background-position: -1716px 0; width: 16px; height: 16px; } 
+.essen-cv{ background-position: -1782px 0; width: 16px; height: 16px; } 
+.essen-database{ background-position: -1848px 0; width: 16px; height: 16px; } 
+.essen-date{ background-position: -1914px 0; width: 16px; height: 16px; } 
+.essen-delicious{ background-position: 0 -66px; width: 16px; height: 16px; } 
+.essen-document-library{ background-position: -66px -66px; width: 16px; height: 16px; } 
+.essen-donate{ background-position: -132px -66px; width: 16px; height: 16px; } 
+.essen-drawings{ background-position: -198px -66px; width: 16px; height: 16px; } 
+.essen-edit{ background-position: -264px -66px; width: 16px; height: 16px; } 
+.essen-email{ background-position: -330px -66px; width: 16px; height: 16px; } 
+.essen-facebook{ background-position: -396px -66px; width: 16px; height: 16px; } 
+.essen-featured{ background-position: -462px -66px; width: 16px; height: 16px; } 
+.essen-feed{ background-position: -528px -66px; width: 16px; height: 16px; } 
+.essen-finished-work{ background-position: -594px -66px; width: 16px; height: 16px; } 
+.essen-flag{ background-position: -660px -66px; width: 16px; height: 16px; } 
+.essen-folder{ background-position: -726px -66px; width: 16px; height: 16px; } 
+.essen-free-for-job{ background-position: -792px -66px; width: 16px; height: 16px; } 
+.essen-freelance{ background-position: -858px -66px; width: 16px; height: 16px; } 
+.essen-full-time{ background-position: -924px -66px; width: 16px; height: 16px; } 
+.essen-future-projects{ background-position: -990px -66px; width: 16px; height: 16px; } 
+.essen-graphic-design{ background-position: -1056px -66px; width: 16px; height: 16px; } 
+.essen-heart{ background-position: -1122px -66px; width: 16px; height: 16px; } 
+.essen-hire-me{ background-position: -1188px -66px; width: 16px; height: 16px; } 
+.essen-home{ background-position: -1254px -66px; width: 16px; height: 16px; } 
+.essen-illustration{ background-position: -1320px -66px; width: 16px; height: 16px; } 
+.essen-invoice{ background-position: -1386px -66px; width: 16px; height: 16px; } 
+.essen-issue{ background-position: -1452px -66px; width: 16px; height: 16px; } 
+.essen-library{ background-position: -1518px -66px; width: 16px; height: 16px; } 
+.essen-lightbulb{ background-position: -1584px -66px; width: 16px; height: 16px; } 
+.essen-limited-edition{ background-position: -1650px -66px; width: 16px; height: 16px; } 
+.essen-link{ background-position: -1716px -66px; width: 16px; height: 16px; } 
+.essen-lock{ background-position: -1782px -66px; width: 16px; height: 16px; } 
+.essen-login{ background-position: -1848px -66px; width: 16px; height: 16px; } 
+.essen-logout{ background-position: -1914px -66px; width: 16px; height: 16px; } 
+.essen-milestone{ background-position: 0 -132px; width: 16px; height: 16px; } 
+.essen-my-account{ background-position: -66px -132px; width: 16px; height: 16px; } 
+.essen-networking{ background-position: -132px -132px; width: 16px; height: 16px; } 
+.essen-old-versions{ background-position: -198px -132px; width: 16px; height: 16px; } 
+.essen-order-192{ background-position: -264px -132px; width: 16px; height: 16px; } 
+.essen-order{ background-position: -330px -132px; width: 16px; height: 16px; } 
+.essen-payment-card{ background-position: -396px -132px; width: 16px; height: 16px; } 
+.essen-paypal{ background-position: -462px -132px; width: 16px; height: 16px; } 
+.essen-pc{ background-position: -528px -132px; width: 16px; height: 16px; } 
+.essen-pen{ background-position: -594px -132px; width: 16px; height: 16px; } 
+.essen-pencil{ background-position: -660px -132px; width: 16px; height: 16px; } 
+.essen-phone{ background-position: -726px -132px; width: 16px; height: 16px; } 
+.essen-photography{ background-position: -792px -132px; width: 16px; height: 16px; } 
+.essen-plus{ background-position: -858px -132px; width: 16px; height: 16px; } 
+.essen-premium{ background-position: -924px -132px; width: 16px; height: 16px; } 
+.essen-print{ background-position: -990px -132px; width: 16px; height: 16px; } 
+.essen-process{ background-position: -1056px -132px; width: 16px; height: 16px; } 
+.essen-product-193{ background-position: -1122px -132px; width: 16px; height: 16px; } 
+.essen-product-design{ background-position: -1188px -132px; width: 16px; height: 16px; } 
+.essen-product{ background-position: -1254px -132px; width: 16px; height: 16px; } 
+.essen-project{ background-position: -1320px -132px; width: 16px; height: 16px; } 
+.essen-publish{ background-position: -1386px -132px; width: 16px; height: 16px; } 
+.essen-refresh{ background-position: -1452px -132px; width: 16px; height: 16px; } 
+.essen-search{ background-position: -1518px -132px; width: 16px; height: 16px; } 
+.essen-settings{ background-position: -1584px -132px; width: 16px; height: 16px; } 
+.essen-shipping{ background-position: -1650px -132px; width: 16px; height: 16px; } 
+.essen-showreel{ background-position: -1716px -132px; width: 16px; height: 16px; } 
+.essen-sign-in{ background-position: -1782px -132px; width: 16px; height: 16px; } 
+.essen-sign-out{ background-position: -1848px -132px; width: 16px; height: 16px; } 
+.essen-sign-up{ background-position: -1914px -132px; width: 16px; height: 16px; } 
+.essen-sitemap{ background-position: 0 -198px; width: 16px; height: 16px; } 
+.essen-special-offer{ background-position: -66px -198px; width: 16px; height: 16px; } 
+.essen-star{ background-position: -132px -198px; width: 16px; height: 16px; } 
+.essen-statistics{ background-position: -198px -198px; width: 16px; height: 16px; } 
+.essen-suppliers{ background-position: -264px -198px; width: 16px; height: 16px; } 
+.essen-tag{ background-position: -330px -198px; width: 16px; height: 16px; } 
+.essen-ticket{ background-position: -396px -198px; width: 16px; height: 16px; } 
+.essen-twitter{ background-position: -462px -198px; width: 16px; height: 16px; } 
+.essen-upcoming-work{ background-position: -528px -198px; width: 16px; height: 16px; } 
+.essen-user{ background-position: -594px -198px; width: 16px; height: 16px; } 
+.essen-world{ background-position: -660px -198px; width: 16px; height: 16px; } 
+.essen-zoom{ background-position: -726px -198px; width: 16px; height: 16px; } 

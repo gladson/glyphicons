@@ -1,0 +1,290 @@
+[class^="fuge-"],
+[class*=" fuge-"] {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  margin-top: 1px;
+  *margin-right: .3em;
+  line-height: 14px;
+  vertical-align: text-top;
+  background-image: url("../img/fuge-icons.png");
+  background-position: 14px 14px;
+  background-repeat: no-repeat;
+}
+
+.fuge-white,
+.nav-pills > .active > a > [class^="fuge-"],
+.nav-pills > .active > a > [class*=" fuge-"],
+.nav-list > .active > a > [class^="fuge-"],
+.nav-list > .active > a > [class*=" fuge-"],
+.navbar-inverse .nav > .active > a > [class^="fuge-"],
+.navbar-inverse .nav > .active > a > [class*=" fuge-"],
+.dropdown-menu > li > a:hover > [class^="fuge-"],
+.dropdown-menu > li > a:focus > [class^="fuge-"],
+.dropdown-menu > li > a:hover > [class*=" fuge-"],
+.dropdown-menu > li > a:focus > [class*=" fuge-"],
+.dropdown-menu > .active > a > [class^="fuge-"],
+.dropdown-menu > .active > a > [class*=" fuge-"],
+.dropdown-submenu:hover > a > [class^="fuge-"],
+.dropdown-submenu:focus > a > [class^="fuge-"],
+.dropdown-submenu:hover > a > [class*=" fuge-"],
+.dropdown-submenu:focus > a > [class*=" fuge-"] {
+  background-image: url("../img/fuge-icons.png");
+}
+
+.btn-large [class^="fuge-"],
+.btn-large [class*=" fuge-"] {
+  margin-top: 4px;
+}
+
+.btn-small [class^="fuge-"],
+.btn-small [class*=" fuge-"] {
+  margin-top: 0;
+}
+
+.btn-mini [class^="fuge-"],
+.btn-mini [class*=" fuge-"] {
+  margin-top: -1px;
+}
+
+.nav-list [class^="fuge-"],
+.nav-list [class*=" fuge-"] {
+  margin-right: 2px;
+}
+
+.navbar .btn-navbar .fuge-bar {
+  display: block;
+  width: 18px;
+  height: 2px;
+  background-color: #f5f5f5;
+  -webkit-border-radius: 1px;
+     -moz-border-radius: 1px;
+          border-radius: 1px;
+  -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+     -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+          box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+}
+
+.btn-navbar .fuge-bar + .fuge-bar {
+  margin-top: 3px;
+}
+
+.fuge-3dbarchart{ background-position: 0 0; width: 16px; height: 16px; } 
+.fuge-Abort{ background-position: -21px 0; width: 16px; height: 16px; } 
+.fuge-About{ background-position: -42px 0; width: 16px; height: 16px; } 
+.fuge-Accounting{ background-position: -63px 0; width: 16px; height: 16px; } 
+.fuge-Addressbook{ background-position: -84px 0; width: 16px; height: 16px; } 
+.fuge-Alarmclock{ background-position: -105px 0; width: 16px; height: 16px; } 
+.fuge-Alarm{ background-position: -126px 0; width: 16px; height: 16px; } 
+.fuge-Alert{ background-position: -147px 0; width: 16px; height: 16px; } 
+.fuge-Alien{ background-position: -168px 0; width: 16px; height: 16px; } 
+.fuge-Anchor{ background-position: -189px 0; width: 16px; height: 16px; } 
+.fuge-Application{ background-position: -210px 0; width: 16px; height: 16px; } 
+.fuge-Apply{ background-position: -231px 0; width: 16px; height: 16px; } 
+.fuge-Back{ background-position: -252px 0; width: 16px; height: 16px; } 
+.fuge-Badmark{ background-position: -273px 0; width: 16px; height: 16px; } 
+.fuge-Bee{ background-position: -294px 0; width: 16px; height: 16px; } 
+.fuge-Blackbookmark{ background-position: -315px 0; width: 16px; height: 16px; } 
+.fuge-Blackpin{ background-position: -336px 0; width: 16px; height: 16px; } 
+.fuge-Blacktag{ background-position: -357px 0; width: 16px; height: 16px; } 
+.fuge-Blog{ background-position: -378px 0; width: 16px; height: 16px; } 
+.fuge-Bluebookmark{ background-position: -399px 0; width: 16px; height: 16px; } 
+.fuge-Bluekey{ background-position: -420px 0; width: 16px; height: 16px; } 
+.fuge-Bluepin{ background-position: -441px 0; width: 16px; height: 16px; } 
+.fuge-Bluetag{ background-position: -462px 0; width: 16px; height: 16px; } 
+.fuge-Bomb{ background-position: -483px 0; width: 16px; height: 16px; } 
+.fuge-Bookmark{ background-position: -504px 0; width: 16px; height: 16px; } 
+.fuge-Boss{ background-position: -525px 0; width: 16px; height: 16px; } 
+.fuge-Bottom{ background-position: -546px 0; width: 16px; height: 16px; } 
+.fuge-Briefcase{ background-position: -567px 0; width: 16px; height: 16px; } 
+.fuge-Brush{ background-position: -588px 0; width: 16px; height: 16px; } 
+.fuge-Bubble{ background-position: -609px 0; width: 16px; height: 16px; } 
+.fuge-Buy{ background-position: -630px 0; width: 16px; height: 16px; } 
+.fuge-CD{ background-position: -651px 0; width: 16px; height: 16px; } 
+.fuge-Calculator{ background-position: -672px 0; width: 16px; height: 16px; } 
+.fuge-Calendar{ background-position: -693px 0; width: 16px; height: 16px; } 
+.fuge-Cancel{ background-position: -714px 0; width: 16px; height: 16px; } 
+.fuge-Carkey{ background-position: -735px 0; width: 16px; height: 16px; } 
+.fuge-Clipboard{ background-position: -756px 0; width: 16px; height: 16px; } 
+.fuge-Clock{ background-position: -777px 0; width: 16px; height: 16px; } 
+.fuge-Comment{ background-position: -798px 0; width: 16px; height: 16px; } 
+.fuge-Company{ background-position: -819px 0; width: 16px; height: 16px; } 
+.fuge-Compass{ background-position: -840px 0; width: 16px; height: 16px; } 
+.fuge-Component{ background-position: -861px 0; width: 16px; height: 16px; } 
+.fuge-Computer16x16{ background-position: -882px 0; width: 16px; height: 16px; } 
+.fuge-Copy{ background-position: -903px 0; width: 16px; height: 16px; } 
+.fuge-Create{ background-position: -924px 0; width: 16px; height: 16px; } 
+.fuge-Cut{ background-position: -945px 0; width: 16px; height: 16px; } 
+.fuge-Danger{ background-position: -966px 0; width: 16px; height: 16px; } 
+.fuge-Database{ background-position: -987px 0; width: 16px; height: 16px; } 
+.fuge-Delete{ background-position: -1008px 0; width: 16px; height: 16px; } 
+.fuge-Delivery{ background-position: -1029px 0; width: 16px; height: 16px; } 
+.fuge-Diagram{ background-position: -1050px 0; width: 16px; height: 16px; } 
+.fuge-Dial{ background-position: -1071px 0; width: 16px; height: 16px; } 
+.fuge-Disaster{ background-position: -1092px 0; width: 16px; height: 16px; } 
+.fuge-Display16x16{ background-position: -1113px 0; width: 16px; height: 16px; } 
+.fuge-Dollar{ background-position: -1134px 0; width: 16px; height: 16px; } 
+.fuge-Down{ background-position: -1155px 0; width: 16px; height: 16px; } 
+.fuge-Download{ background-position: -1176px 0; width: 16px; height: 16px; } 
+.fuge-Downloadsfolder{ background-position: -1197px 0; width: 16px; height: 16px; } 
+.fuge-E-mail{ background-position: -1218px 0; width: 16px; height: 16px; } 
+.fuge-Earth{ background-position: -1239px 0; width: 16px; height: 16px; } 
+.fuge-Eject{ background-position: -1260px 0; width: 16px; height: 16px; } 
+.fuge-Equipment{ background-position: -1281px 0; width: 16px; height: 16px; } 
+.fuge-Erase{ background-position: -1302px 0; width: 16px; height: 16px; } 
+.fuge-Error{ background-position: -1323px 0; width: 16px; height: 16px; } 
+.fuge-Euro{ background-position: -1344px 0; width: 16px; height: 16px; } 
+.fuge-Exit{ background-position: -1365px 0; width: 16px; height: 16px; } 
+.fuge-Expand{ background-position: -1386px 0; width: 16px; height: 16px; } 
+.fuge-Eye{ background-position: -1407px 0; width: 16px; height: 16px; } 
+.fuge-Fall{ background-position: -1428px 0; width: 16px; height: 16px; } 
+.fuge-Fast-forward{ background-position: -1449px 0; width: 16px; height: 16px; } 
+.fuge-Favourites{ background-position: -1470px 0; width: 16px; height: 16px; } 
+.fuge-Femalesymbol{ background-position: -1491px 0; width: 16px; height: 16px; } 
+.fuge-Female{ background-position: -1512px 0; width: 16px; height: 16px; } 
+.fuge-Film{ background-position: -1533px 0; width: 16px; height: 16px; } 
+.fuge-Filter{ background-position: -1554px 0; width: 16px; height: 16px; } 
+.fuge-Find{ background-position: -1575px 0; width: 16px; height: 16px; } 
+.fuge-Firstrecord{ background-position: -1596px 0; width: 16px; height: 16px; } 
+.fuge-First{ background-position: -1617px 0; width: 16px; height: 16px; } 
+.fuge-Flag{ background-position: -1638px 0; width: 16px; height: 16px; } 
+.fuge-Flashdrive{ background-position: -1659px 0; width: 16px; height: 16px; } 
+.fuge-Folder{ background-position: -1680px 0; width: 16px; height: 16px; } 
+.fuge-Forbidden{ background-position: -1701px 0; width: 16px; height: 16px; } 
+.fuge-Forward{ background-position: -1722px 0; width: 16px; height: 16px; } 
+.fuge-Freebsd{ background-position: -1743px 0; width: 16px; height: 16px; } 
+.fuge-Gift{ background-position: -1764px 0; width: 16px; height: 16px; } 
+.fuge-Globe{ background-position: -1785px 0; width: 16px; height: 16px; } 
+.fuge-Goback{ background-position: -1806px 0; width: 16px; height: 16px; } 
+.fuge-Goforward{ background-position: -1827px 0; width: 16px; height: 16px; } 
+.fuge-Go{ background-position: -1848px 0; width: 16px; height: 16px; } 
+.fuge-Goodmark{ background-position: -1869px 0; width: 16px; height: 16px; } 
+.fuge-Greenbookmark{ background-position: -1890px 0; width: 16px; height: 16px; } 
+.fuge-Greenpin{ background-position: -1911px 0; width: 16px; height: 16px; } 
+.fuge-Greentag{ background-position: -1932px 0; width: 16px; height: 16px; } 
+.fuge-Harddisk{ background-position: -1953px 0; width: 16px; height: 16px; } 
+.fuge-Heart{ background-position: -1974px 0; width: 16px; height: 16px; } 
+.fuge-Helpbook3d{ background-position: 0 -21px; width: 16px; height: 16px; } 
+.fuge-Helpbook{ background-position: -21px -21px; width: 16px; height: 16px; } 
+.fuge-Helpsymbol{ background-position: -42px -21px; width: 16px; height: 16px; } 
+.fuge-Help{ background-position: -63px -21px; width: 16px; height: 16px; } 
+.fuge-Hint{ background-position: -84px -21px; width: 16px; height: 16px; } 
+.fuge-History{ background-position: -105px -21px; width: 16px; height: 16px; } 
+.fuge-Home{ background-position: -126px -21px; width: 16px; height: 16px; } 
+.fuge-Hourglass{ background-position: -147px -21px; width: 16px; height: 16px; } 
+.fuge-How-to{ background-position: -168px -21px; width: 16px; height: 16px; } 
+.fuge-Hungup{ background-position: -189px -21px; width: 16px; height: 16px; } 
+.fuge-In-yang{ background-position: -210px -21px; width: 16px; height: 16px; } 
+.fuge-Info{ background-position: -231px -21px; width: 16px; height: 16px; } 
+.fuge-Iphone{ background-position: -252px -21px; width: 16px; height: 16px; } 
+.fuge-Key{ background-position: -273px -21px; width: 16px; height: 16px; } 
+.fuge-Lastrecor{ background-position: -294px -21px; width: 16px; height: 16px; } 
+.fuge-Last{ background-position: -315px -21px; width: 16px; height: 16px; } 
+.fuge-Left-right{ background-position: -336px -21px; width: 16px; height: 16px; } 
+.fuge-Lightning{ background-position: -357px -21px; width: 16px; height: 16px; } 
+.fuge-Liner{ background-position: -378px -21px; width: 16px; height: 16px; } 
+.fuge-Linux{ background-position: -399px -21px; width: 16px; height: 16px; } 
+.fuge-List{ background-position: -420px -21px; width: 16px; height: 16px; } 
+.fuge-Load{ background-position: -441px -21px; width: 16px; height: 16px; } 
+.fuge-Lock{ background-position: -462px -21px; width: 16px; height: 16px; } 
+.fuge-Lowrating{ background-position: -483px -21px; width: 16px; height: 16px; } 
+.fuge-Magicwand{ background-position: -504px -21px; width: 16px; height: 16px; } 
+.fuge-Mail{ background-position: -525px -21px; width: 16px; height: 16px; } 
+.fuge-Malesymbol{ background-position: -546px -21px; width: 16px; height: 16px; } 
+.fuge-Male{ background-position: -567px -21px; width: 16px; height: 16px; } 
+.fuge-Mediumrating{ background-position: -588px -21px; width: 16px; height: 16px; } 
+.fuge-Message{ background-position: -609px -21px; width: 16px; height: 16px; } 
+.fuge-Mobile-phone{ background-position: -630px -21px; width: 16px; height: 16px; } 
+.fuge-Modify{ background-position: -651px -21px; width: 16px; height: 16px; } 
+.fuge-Move{ background-position: -672px -21px; width: 16px; height: 16px; } 
+.fuge-Movie{ background-position: -693px -21px; width: 16px; height: 16px; } 
+.fuge-Music{ background-position: -714px -21px; width: 16px; height: 16px; } 
+.fuge-Mute{ background-position: -735px -21px; width: 16px; height: 16px; } 
+.fuge-Networkconnection{ background-position: -756px -21px; width: 16px; height: 16px; } 
+.fuge-Newdocument{ background-position: -777px -21px; width: 16px; height: 16px; } 
+.fuge-New{ background-position: -798px -21px; width: 16px; height: 16px; } 
+.fuge-Nexttrack{ background-position: -819px -21px; width: 16px; height: 16px; } 
+.fuge-Next{ background-position: -840px -21px; width: 16px; height: 16px; } 
+.fuge-No-entry{ background-position: -861px -21px; width: 16px; height: 16px; } 
+.fuge-No{ background-position: -882px -21px; width: 16px; height: 16px; } 
+.fuge-Notes{ background-position: -903px -21px; width: 16px; height: 16px; } 
+.fuge-OK{ background-position: -924px -21px; width: 16px; height: 16px; } 
+.fuge-Paste{ background-position: -945px -21px; width: 16px; height: 16px; } 
+.fuge-Pause{ background-position: -966px -21px; width: 16px; height: 16px; } 
+.fuge-People{ background-position: -987px -21px; width: 16px; height: 16px; } 
+.fuge-Percent{ background-position: -1008px -21px; width: 16px; height: 16px; } 
+.fuge-Person{ background-position: -1029px -21px; width: 16px; height: 16px; } 
+.fuge-Phonenumber{ background-position: -1050px -21px; width: 16px; height: 16px; } 
+.fuge-Phone{ background-position: -1071px -21px; width: 16px; height: 16px; } 
+.fuge-Piechart{ background-position: -1092px -21px; width: 16px; height: 16px; } 
+.fuge-Pinion{ background-position: -1113px -21px; width: 16px; height: 16px; } 
+.fuge-Play-music{ background-position: -1134px -21px; width: 16px; height: 16px; } 
+.fuge-Play{ background-position: -1155px -21px; width: 16px; height: 16px; } 
+.fuge-Playback{ background-position: -1176px -21px; width: 16px; height: 16px; } 
+.fuge-Previousrecord{ background-position: -1197px -21px; width: 16px; height: 16px; } 
+.fuge-Previous{ background-position: -1218px -21px; width: 16px; height: 16px; } 
+.fuge-Print{ background-position: -1239px -21px; width: 16px; height: 16px; } 
+.fuge-Problem{ background-position: -1260px -21px; width: 16px; height: 16px; } 
+.fuge-Question{ background-position: -1281px -21px; width: 16px; height: 16px; } 
+.fuge-Radiation{ background-position: -1302px -21px; width: 16px; height: 16px; } 
+.fuge-Raise{ background-position: -1323px -21px; width: 16px; height: 16px; } 
+.fuge-Record{ background-position: -1344px -21px; width: 16px; height: 16px; } 
+.fuge-Redbookmark{ background-position: -1365px -21px; width: 16px; height: 16px; } 
+.fuge-Redmark{ background-position: -1386px -21px; width: 16px; height: 16px; } 
+.fuge-Redpin{ background-position: -1407px -21px; width: 16px; height: 16px; } 
+.fuge-Redstar{ background-position: -1428px -21px; width: 16px; height: 16px; } 
+.fuge-Redtag{ background-position: -1449px -21px; width: 16px; height: 16px; } 
+.fuge-Redo{ background-position: -1470px -21px; width: 16px; height: 16px; } 
+.fuge-Refresh{ background-position: -1491px -21px; width: 16px; height: 16px; } 
+.fuge-Remove{ background-position: -1512px -21px; width: 16px; height: 16px; } 
+.fuge-Repair{ background-position: -1533px -21px; width: 16px; height: 16px; } 
+.fuge-Report{ background-position: -1554px -21px; width: 16px; height: 16px; } 
+.fuge-Retort{ background-position: -1575px -21px; width: 16px; height: 16px; } 
+.fuge-Rewind{ background-position: -1596px -21px; width: 16px; height: 16px; } 
+.fuge-Sad{ background-position: -1617px -21px; width: 16px; height: 16px; } 
+.fuge-Save{ background-position: -1638px -21px; width: 16px; height: 16px; } 
+.fuge-Schedule{ background-position: -1659px -21px; width: 16px; height: 16px; } 
+.fuge-Script{ background-position: -1680px -21px; width: 16px; height: 16px; } 
+.fuge-Search{ background-position: -1701px -21px; width: 16px; height: 16px; } 
+.fuge-Shield16x16{ background-position: -1722px -21px; width: 16px; height: 16px; } 
+.fuge-Shoppingcart{ background-position: -1743px -21px; width: 16px; height: 16px; } 
+.fuge-Silence{ background-position: -1764px -21px; width: 16px; height: 16px; } 
+.fuge-Smile{ background-position: -1785px -21px; width: 16px; height: 16px; } 
+.fuge-Sound{ background-position: -1806px -21px; width: 16px; height: 16px; } 
+.fuge-Stopsign{ background-position: -1827px -21px; width: 16px; height: 16px; } 
+.fuge-Stop{ background-position: -1848px -21px; width: 16px; height: 16px; } 
+.fuge-Stopwatch{ background-position: -1869px -21px; width: 16px; height: 16px; } 
+.fuge-Sum{ background-position: -1890px -21px; width: 16px; height: 16px; } 
+.fuge-Sync{ background-position: -1911px -21px; width: 16px; height: 16px; } 
+.fuge-Table{ background-position: -1932px -21px; width: 16px; height: 16px; } 
+.fuge-Target{ background-position: -1953px -21px; width: 16px; height: 16px; } 
+.fuge-Taxi{ background-position: -1974px -21px; width: 16px; height: 16px; } 
+.fuge-Terminate{ background-position: 0 -42px; width: 16px; height: 16px; } 
+.fuge-Textpreview{ background-position: -21px -42px; width: 16px; height: 16px; } 
+.fuge-Text{ background-position: -42px -42px; width: 16px; height: 16px; } 
+.fuge-Thumbsdown{ background-position: -63px -42px; width: 16px; height: 16px; } 
+.fuge-Thumbsup{ background-position: -84px -42px; width: 16px; height: 16px; } 
+.fuge-Toolbox{ background-position: -105px -42px; width: 16px; height: 16px; } 
+.fuge-Top{ background-position: -126px -42px; width: 16px; height: 16px; } 
+.fuge-Trackback{ background-position: -147px -42px; width: 16px; height: 16px; } 
+.fuge-Trash{ background-position: -168px -42px; width: 16px; height: 16px; } 
+.fuge-Tune{ background-position: -189px -42px; width: 16px; height: 16px; } 
+.fuge-Turnoff{ background-position: -210px -42px; width: 16px; height: 16px; } 
+.fuge-Twitter{ background-position: -231px -42px; width: 16px; height: 16px; } 
+.fuge-Undo{ background-position: -252px -42px; width: 16px; height: 16px; } 
+.fuge-Unlock{ background-position: -273px -42px; width: 16px; height: 16px; } 
+.fuge-Up-down{ background-position: -294px -42px; width: 16px; height: 16px; } 
+.fuge-Up{ background-position: -315px -42px; width: 16px; height: 16px; } 
+.fuge-Update{ background-position: -336px -42px; width: 16px; height: 16px; } 
+.fuge-Upload{ background-position: -357px -42px; width: 16px; height: 16px; } 
+.fuge-Usergroup{ background-position: -378px -42px; width: 16px; height: 16px; } 
+.fuge-View{ background-position: -399px -42px; width: 16px; height: 16px; } 
+.fuge-Volume{ background-position: -420px -42px; width: 16px; height: 16px; } 
+.fuge-Wallet{ background-position: -441px -42px; width: 16px; height: 16px; } 
+.fuge-Warning{ background-position: -462px -42px; width: 16px; height: 16px; } 
+.fuge-Wrench{ background-position: -483px -42px; width: 16px; height: 16px; } 
+.fuge-Yellowbookmark{ background-position: -504px -42px; width: 16px; height: 16px; } 
+.fuge-Yellowpin{ background-position: -525px -42px; width: 16px; height: 16px; } 
+.fuge-Yellowtag{ background-position: -546px -42px; width: 16px; height: 16px; } 
+.fuge-Yes{ background-position: -567px -42px; width: 16px; height: 16px; } 
+.fuge-Zoom{ background-position: -588px -42px; width: 16px; height: 16px; } 

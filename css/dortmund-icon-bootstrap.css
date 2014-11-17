@@ -1,0 +1,171 @@
+[class^="dortmund-"],
+[class*=" dortmund-"] {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  margin-top: 1px;
+  *margin-right: .3em;
+  line-height: 14px;
+  vertical-align: text-top;
+  background-image: url("../img/dortmund-icons.png");
+  background-position: 14px 14px;
+  background-repeat: no-repeat;
+}
+
+.dortmund-white,
+.nav-pills > .active > a > [class^="dortmund-"],
+.nav-pills > .active > a > [class*=" dortmund-"],
+.nav-list > .active > a > [class^="dortmund-"],
+.nav-list > .active > a > [class*=" dortmund-"],
+.navbar-inverse .nav > .active > a > [class^="dortmund-"],
+.navbar-inverse .nav > .active > a > [class*=" dortmund-"],
+.dropdown-menu > li > a:hover > [class^="dortmund-"],
+.dropdown-menu > li > a:focus > [class^="dortmund-"],
+.dropdown-menu > li > a:hover > [class*=" dortmund-"],
+.dropdown-menu > li > a:focus > [class*=" dortmund-"],
+.dropdown-menu > .active > a > [class^="dortmund-"],
+.dropdown-menu > .active > a > [class*=" dortmund-"],
+.dropdown-submenu:hover > a > [class^="dortmund-"],
+.dropdown-submenu:focus > a > [class^="dortmund-"],
+.dropdown-submenu:hover > a > [class*=" dortmund-"],
+.dropdown-submenu:focus > a > [class*=" dortmund-"] {
+  background-image: url("../img/dortmund-icons.png");
+}
+
+.btn-large [class^="dortmund-"],
+.btn-large [class*=" dortmund-"] {
+  margin-top: 4px;
+}
+
+.btn-small [class^="dortmund-"],
+.btn-small [class*=" dortmund-"] {
+  margin-top: 0;
+}
+
+.btn-mini [class^="dortmund-"],
+.btn-mini [class*=" dortmund-"] {
+  margin-top: -1px;
+}
+
+.nav-list [class^="dortmund-"],
+.nav-list [class*=" dortmund-"] {
+  margin-right: 2px;
+}
+
+.navbar .btn-navbar .dortmund-bar {
+  display: block;
+  width: 18px;
+  height: 2px;
+  background-color: #f5f5f5;
+  -webkit-border-radius: 1px;
+     -moz-border-radius: 1px;
+          border-radius: 1px;
+  -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+     -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+          box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+}
+
+.btn-navbar .dortmund-bar + .dortmund-bar {
+  margin-top: 3px;
+}
+
+.dortmund-address{ background-position: 0 0; width: 16px; height: 16px; } 
+.dortmund-administrative-docs{ background-position: -66px 0; width: 16px; height: 16px; } 
+.dortmund-advertising{ background-position: -132px 0; width: 16px; height: 16px; } 
+.dortmund-archives{ background-position: -198px 0; width: 16px; height: 16px; } 
+.dortmund-attibutes{ background-position: -264px 0; width: 16px; height: 16px; } 
+.dortmund-bank{ background-position: -330px 0; width: 16px; height: 16px; } 
+.dortmund-basket{ background-position: -396px 0; width: 16px; height: 16px; } 
+.dortmund-bestseller{ background-position: -462px 0; width: 16px; height: 16px; } 
+.dortmund-billing{ background-position: -528px 0; width: 16px; height: 16px; } 
+.dortmund-bookmark{ background-position: -594px 0; width: 16px; height: 16px; } 
+.dortmund-brainstorming{ background-position: -660px 0; width: 16px; height: 16px; } 
+.dortmund-business-contact{ background-position: -726px 0; width: 16px; height: 16px; } 
+.dortmund-busy{ background-position: -792px 0; width: 16px; height: 16px; } 
+.dortmund-calendar{ background-position: -858px 0; width: 16px; height: 16px; } 
+.dortmund-category{ background-position: -924px 0; width: 16px; height: 16px; } 
+.dortmund-check{ background-position: -990px 0; width: 16px; height: 16px; } 
+.dortmund-collaboration{ background-position: -1056px 0; width: 16px; height: 16px; } 
+.dortmund-comment{ background-position: -1122px 0; width: 16px; height: 16px; } 
+.dortmund-communication{ background-position: -1188px 0; width: 16px; height: 16px; } 
+.dortmund-config{ background-position: -1254px 0; width: 16px; height: 16px; } 
+.dortmund-consulting{ background-position: -1320px 0; width: 16px; height: 16px; } 
+.dortmund-contact{ background-position: -1386px 0; width: 16px; height: 16px; } 
+.dortmund-cost{ background-position: -1452px 0; width: 16px; height: 16px; } 
+.dortmund-credit-card{ background-position: -1518px 0; width: 16px; height: 16px; } 
+.dortmund-credit{ background-position: -1584px 0; width: 16px; height: 16px; } 
+.dortmund-current-work{ background-position: -1650px 0; width: 16px; height: 16px; } 
+.dortmund-customers{ background-position: -1716px 0; width: 16px; height: 16px; } 
+.dortmund-cv{ background-position: -1782px 0; width: 16px; height: 16px; } 
+.dortmund-database{ background-position: -1848px 0; width: 16px; height: 16px; } 
+.dortmund-date{ background-position: -1914px 0; width: 16px; height: 16px; } 
+.dortmund-delicious{ background-position: 0 -66px; width: 16px; height: 16px; } 
+.dortmund-document-library{ background-position: -66px -66px; width: 16px; height: 16px; } 
+.dortmund-donate{ background-position: -132px -66px; width: 16px; height: 16px; } 
+.dortmund-drawings{ background-position: -198px -66px; width: 16px; height: 16px; } 
+.dortmund-edit{ background-position: -264px -66px; width: 16px; height: 16px; } 
+.dortmund-email{ background-position: -330px -66px; width: 16px; height: 16px; } 
+.dortmund-featured{ background-position: -396px -66px; width: 16px; height: 16px; } 
+.dortmund-feed{ background-position: -462px -66px; width: 16px; height: 16px; } 
+.dortmund-finished-work{ background-position: -528px -66px; width: 16px; height: 16px; } 
+.dortmund-flag{ background-position: -594px -66px; width: 16px; height: 16px; } 
+.dortmund-folder{ background-position: -660px -66px; width: 16px; height: 16px; } 
+.dortmund-free-for-job{ background-position: -726px -66px; width: 16px; height: 16px; } 
+.dortmund-freelance{ background-position: -792px -66px; width: 16px; height: 16px; } 
+.dortmund-full-time{ background-position: -858px -66px; width: 16px; height: 16px; } 
+.dortmund-future-projects{ background-position: -924px -66px; width: 16px; height: 16px; } 
+.dortmund-graphic-design{ background-position: -990px -66px; width: 16px; height: 16px; } 
+.dortmund-heart{ background-position: -1056px -66px; width: 16px; height: 16px; } 
+.dortmund-hire-me{ background-position: -1122px -66px; width: 16px; height: 16px; } 
+.dortmund-home{ background-position: -1188px -66px; width: 16px; height: 16px; } 
+.dortmund-illustration{ background-position: -1254px -66px; width: 16px; height: 16px; } 
+.dortmund-invoice{ background-position: -1320px -66px; width: 16px; height: 16px; } 
+.dortmund-issue{ background-position: -1386px -66px; width: 16px; height: 16px; } 
+.dortmund-library{ background-position: -1452px -66px; width: 16px; height: 16px; } 
+.dortmund-lightbulb{ background-position: -1518px -66px; width: 16px; height: 16px; } 
+.dortmund-limited-edition{ background-position: -1584px -66px; width: 16px; height: 16px; } 
+.dortmund-link{ background-position: -1650px -66px; width: 16px; height: 16px; } 
+.dortmund-lock{ background-position: -1716px -66px; width: 16px; height: 16px; } 
+.dortmund-login{ background-position: -1782px -66px; width: 16px; height: 16px; } 
+.dortmund-logout{ background-position: -1848px -66px; width: 16px; height: 16px; } 
+.dortmund-milestone{ background-position: -1914px -66px; width: 16px; height: 16px; } 
+.dortmund-my-account{ background-position: 0 -132px; width: 16px; height: 16px; } 
+.dortmund-networking{ background-position: -66px -132px; width: 16px; height: 16px; } 
+.dortmund-old-versions{ background-position: -132px -132px; width: 16px; height: 16px; } 
+.dortmund-order-192{ background-position: -198px -132px; width: 16px; height: 16px; } 
+.dortmund-order{ background-position: -264px -132px; width: 16px; height: 16px; } 
+.dortmund-payment-card{ background-position: -330px -132px; width: 16px; height: 16px; } 
+.dortmund-paypal{ background-position: -396px -132px; width: 16px; height: 16px; } 
+.dortmund-pen{ background-position: -462px -132px; width: 16px; height: 16px; } 
+.dortmund-pencil{ background-position: -528px -132px; width: 16px; height: 16px; } 
+.dortmund-phone{ background-position: -594px -132px; width: 16px; height: 16px; } 
+.dortmund-photography{ background-position: -660px -132px; width: 16px; height: 16px; } 
+.dortmund-plus{ background-position: -726px -132px; width: 16px; height: 16px; } 
+.dortmund-premium{ background-position: -792px -132px; width: 16px; height: 16px; } 
+.dortmund-print{ background-position: -858px -132px; width: 16px; height: 16px; } 
+.dortmund-process{ background-position: -924px -132px; width: 16px; height: 16px; } 
+.dortmund-product-193{ background-position: -990px -132px; width: 16px; height: 16px; } 
+.dortmund-product-design{ background-position: -1056px -132px; width: 16px; height: 16px; } 
+.dortmund-product{ background-position: -1122px -132px; width: 16px; height: 16px; } 
+.dortmund-project{ background-position: -1188px -132px; width: 16px; height: 16px; } 
+.dortmund-publish{ background-position: -1254px -132px; width: 16px; height: 16px; } 
+.dortmund-refresh{ background-position: -1320px -132px; width: 16px; height: 16px; } 
+.dortmund-search{ background-position: -1386px -132px; width: 16px; height: 16px; } 
+.dortmund-settings{ background-position: -1452px -132px; width: 16px; height: 16px; } 
+.dortmund-shipping{ background-position: -1518px -132px; width: 16px; height: 16px; } 
+.dortmund-showreel{ background-position: -1584px -132px; width: 16px; height: 16px; } 
+.dortmund-sign-in{ background-position: -1650px -132px; width: 16px; height: 16px; } 
+.dortmund-sign-out{ background-position: -1716px -132px; width: 16px; height: 16px; } 
+.dortmund-sign-up{ background-position: -1782px -132px; width: 16px; height: 16px; } 
+.dortmund-sitemap{ background-position: -1848px -132px; width: 16px; height: 16px; } 
+.dortmund-special-offer{ background-position: -1914px -132px; width: 16px; height: 16px; } 
+.dortmund-star{ background-position: 0 -198px; width: 16px; height: 16px; } 
+.dortmund-statistics{ background-position: -66px -198px; width: 16px; height: 16px; } 
+.dortmund-suppliers{ background-position: -132px -198px; width: 16px; height: 16px; } 
+.dortmund-tag{ background-position: -198px -198px; width: 16px; height: 16px; } 
+.dortmund-ticket{ background-position: -264px -198px; width: 16px; height: 16px; } 
+.dortmund-twitter{ background-position: -330px -198px; width: 16px; height: 16px; } 
+.dortmund-upcoming-work{ background-position: -396px -198px; width: 16px; height: 16px; } 
+.dortmund-user{ background-position: -462px -198px; width: 16px; height: 16px; } 
+.dortmund-world{ background-position: -528px -198px; width: 16px; height: 16px; } 
+.dortmund-zoom{ background-position: -594px -198px; width: 16px; height: 16px; } 
